@@ -40,3 +40,6 @@ body button {
 #myCanvas{
   border : 1px solid black;
 }
+#canvasGame {
+  background: red;
+}
